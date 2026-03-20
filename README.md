@@ -1,2 +1,3 @@
-# rapid-e-learning-wdon
-A online learning platform for modern development workflows
+# Rapid E Learning Wdon
+
+A online learning platform for modern development workflows.
